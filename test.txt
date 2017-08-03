@@ -1,5 +1,0 @@
-hello java
-hello python
-hello C++
-hello js
-
